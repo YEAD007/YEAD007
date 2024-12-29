@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ishtiak Ahmed
 #### Full stack web developer
-![Full stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Full stack web developer](https://media.licdn.com/dms/image/v2/D4D03AQHQT5LO42vi_Q/profile-displayphoto-shrink_800_800/B4DZQRYMUuHUAc-/0/1735458343185?e=1741219200&v=beta&t=FYlfNdCdviVd8zG2r1_a4XO-o23vDhLu5k7FbHdqB-s)
 
 Passionate about crafting dynamic and efficient web applications.
 
